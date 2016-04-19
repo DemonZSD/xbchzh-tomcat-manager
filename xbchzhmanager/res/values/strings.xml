@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">相伴成长Server</string>
+    <string name="restartBtn">重启服务</string>
+    <string name="restartView">显示</string>
+    <string name="action_settings">设置</string>
+    <string name="stateBtn">查看状态</string>
+    <string name="clearBtn">清除内容</string>
+    <string name="logs">日志输出</string>
+    <string name="showlogBtn">日志输出</string>
+
+</resources>
